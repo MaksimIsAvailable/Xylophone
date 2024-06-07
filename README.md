@@ -9,5 +9,4 @@ Xylophone app is a music app that plays Xylophone sounds. For every Beethoven ou
 - Creating functions with inputs
 - Playing different sounds for different buttons
 
-https://github.com/MaksimIsAvailable/Xylophone/assets/162634880/0213f4d1-72c3-4c9d-93da-a6ec2cd130cb
-
+![Xylophone](https://github.com/MaksimIsAvailable/Xylophone/assets/162634880/ec2c7fca-0341-475d-854a-f036b4b74ac0)
